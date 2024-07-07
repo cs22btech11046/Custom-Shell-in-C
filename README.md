@@ -1,1 +1,4 @@
 # Custom-Shell-in-C
+This project involves the development of a custom shell program in C, designed to run on an Ubuntu terminal. The shell supports basic command-line functionalities, including listing directory contents (ls), copying files (cp), moving files (mv), and searching within files (grep). The implementation was done from scratch, demonstrating a thorough understanding of system calls, string manipulation, and process control in C.
+
+The shell provides a user-friendly interface, displaying the current user, hostname, and working directory in the prompt. It also includes command parsing to handle multiple arguments and recognizes built-in commands such as help and exit. The project highlights essential skills in systems programming, offering a foundational tool for interacting with the file system and managing files through a custom-built command-line interface
